@@ -2,7 +2,6 @@
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning Javascript, React JS lib, Agular framework to be full stack in the future.
 - 💞️ I like programming, music, sport(badminton), trekking and traveling.
-- 📫 How to reach me ...
 
 <!---
 YenKaPhuThi/YenKaPhuThi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
