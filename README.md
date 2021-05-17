@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Yen Ka.
+## 👋 Hi, I’m Yen Ka.
 - 👀 I’m interested in web development.
 - 🌱 I’m currently learning Javascript, React JS lib, Agular framework and Node Js to be full stack in the future.
 - 💞️ I like programming, music, sport(badminton), trekking, traveling and english.
